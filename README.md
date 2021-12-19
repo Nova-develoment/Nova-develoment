@@ -1,0 +1,3 @@
+- develoment team of nova bot
+- open source
+- gg
